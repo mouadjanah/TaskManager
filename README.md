@@ -24,16 +24,11 @@ MAIL_FROM_NAME="${APP_NAME}"
 10. Run `php artisan ser` 
 11. `http://localhost:8000/`
 
-`Note`: Please make sure Turn ON `Less secure app access` in your Google account other wise Email Not Send !. [Click here..](https://myaccount.google.com/security)
-
-You should see the list of Data, something like this:
-
-![larave dashboard img](public/git_image/vue-dashboard.png)
 
 ## Feature
-Key Feature of Project.
 
-- Project Management and Task Management System
+
+- Task Management System
 - Responsive Template use in Vue js
 - Front End Vue js
 - Custom Authentication System (without jetstream)
@@ -42,17 +37,4 @@ Key Feature of Project.
 - Use email Google and Laravel feature
 - Register,Login and forgot password without jetstream (custom codding)
 
-`Note`: Please make sure Turn ON `Less secure app access` in your Google account without Email Not Send !.
-- Please Following:- `Manage your Google Account => Security => Less secure app access =>Trun ON`
 
-## Register View
-
-![larave vue.js Register View](public/git_image/register_login.gif)
-
-## Email Verification View
-
-![larave+vue Email Verification View](public/git_image/email-verify.gif)
-
-## Forgot Password View
-
-![larave+vue Forgot Password View](public/git_image/forgot-password.gif)
